@@ -286,7 +286,7 @@
                                                                                 </div>
                                                                                 <hr/>
 
-                                                                                <div>
+                                                                                <div class="wow slideInLeft" data-wow-duration="10s" data-wow-delay="5s">
                                                                                     <h4>Our Function</h4>
                                                                                     <p>Formulation and Implementation of
                                                                                         education policies in the State
@@ -477,5 +477,9 @@
 <script type="text/javascript" src="js/3/b8041.js"></script>
 <script type="text/javascript" src="js/3/d9a09.js"></script>
 <script type="text/javascript" src="js/3/a8cb8.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
 </body>
 </html>
