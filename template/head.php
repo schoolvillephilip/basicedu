@@ -28,6 +28,18 @@
         max-width: 200px
     }
 
+    .edu-btn{
+        color: #fff;
+        padding: 10px;
+        border-radius: 4px;
+        border: 1px solid #0072b1;
+        color: #303030;
+    }
+
+    a{
+        text-decoration: none !important;
+    }
+
     @media ( max-width: 991px ) {
         .header-logo {
             max-width: 140px

@@ -4,7 +4,7 @@
                 <div class="lsvr-container">
                     <div class="header__content-inner">
                         <div class="header-logo"><a href="../index.html" class="header-logo__link"> <img
-                                src="images/header-logo.2x.png"
+                                src="images/logo.png"
                                 class="header-logo__image" alt="TownPress"> </a></div>
                         <div class="header-toolbar-toggle">
                             <button class="header-toolbar-toggle__menu-button" type="button"><i
