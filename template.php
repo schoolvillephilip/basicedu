@@ -77,7 +77,8 @@
                                     </div>
                                 </main>
                             </div>
-                            <?php include_once('template/sidebar.php'); ?>
+                            <?php include_once('template/left-sidebar.php'); ?>
+                            <?php include_once('template/right-sidebar.php'); ?>
                         </div>
                     </div>
                 </div>
