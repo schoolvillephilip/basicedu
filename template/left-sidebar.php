@@ -31,7 +31,7 @@
                                     </ul>
                                 </li>
                                 <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="../news/index.html"
+                                    <a href="temp"
                                        class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
                                         News</a></li>
                                 <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-custom menu-item-object-custom">

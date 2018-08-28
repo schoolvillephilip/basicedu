@@ -1,6 +1,6 @@
 <?php include_once('template/head.php'); ?>
 </head>
-<body
+<body data-rsssl=1
       class="home page-template page-template-page-templates page-template-not-boxed page-template-page-templatesnot-boxed-php page page-id-207 wp-custom-logo wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
 <div id="wrapper">
     <?php include_once('template/header.php'); ?>
