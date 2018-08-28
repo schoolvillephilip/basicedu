@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TownPress &#8211; Municipal WordPress Theme</title>
+    <title>Ministry of Basic Education</title>
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/'/>
     <link rel='stylesheet' id='bbp-default-css'
           href='css/bbpress01c4.css' type='text/css'

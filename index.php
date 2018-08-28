@@ -1,4 +1,7 @@
 <?php include_once('template/head.php'); ?>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+</style>
 </head>
 <body
         class="home page-template page-template-page-templates page-template-not-boxed page-template-page-templatesnot-boxed-php page page-id-207 wp-custom-logo wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
@@ -187,7 +190,7 @@
                                                                                         <div class="lsvr-townpress-posts__post-inner">
                                                                                             <header class="lsvr-townpress-posts__post-header">
                                                                                                 <p class="lsvr-townpress-posts__post-thumbnail">
-                                                                                                    <a href="report-from-friendly-soccer-match-between-townpress-and-pressville/index.html"
+                                                                                                    <a href="#"
                                                                                                        class="lsvr-townpress-posts__post-thumbnail-link"
                                                                                                        style="background-image: url( 'images/zenith-cup.jpg' ); object-fit: cover"></a>
                                                                                                 </p>
@@ -206,10 +209,6 @@
                                                                                                     <span class="lsvr-townpress-posts__post-meta-date">
                                                                                                         Ministry of education award
                                                                                                     </span>
-                                                                                                    <span class="lsvr-townpress-posts__post-meta-categories"> <span
-                                                                                                                class="post__terms"> in <a
-                                                                                                                    href="category/sport/index.html"
-                                                                                                                    class="post__term-link">Sport</a>			</span></span>
                                                                                                 </p>
                                                                                             </header>
                                                                                             <div class="lsvr-townpress-posts__post-content">

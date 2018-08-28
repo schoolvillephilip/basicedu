@@ -1,11 +1,14 @@
+<!-- position: relative; float: left;padding: 10px 0; margin: 50px 0 -70px 100px; width: 120%; -webkit-transition: margin 300ms ease-in-out; -moz-transition: margin 300ms ease-in-out;-ms-transition: margin 300ms ease-in-out; -o-transition: margin 300ms ease-in-out;transition: margin 300ms ease-in-out;  background: rgba(255, 255, 255, 0.0);  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.0); -->
 <header id="header" class="header--has-languages">
         <div class="header__inner">
             <div class="header__content">
                 <div class="lsvr-container">
                     <div class="header__content-inner">
-                        <div class="header-logo"><a href="../index.html" class="header-logo__link"> <img
-                                src="images/logo.png"
-                                class="header-logo__image" alt="TownPress"> </a></div>
+                        <div class="header-logo" style="">
+                            <a href="index" class="header-logo__link" style="">
+                                <img src="images/logo.png" class="header-logo__image" width="70%" alt="Govenment of Delta State">
+                            </a>
+                        </div>
                         <div class="header-toolbar-toggle">
                             <button class="header-toolbar-toggle__menu-button" type="button"><i
                                     class="header-toolbar-toggle__menu-button-ico header-toolbar-toggle__menu-button-ico--open icon-menu"></i>
@@ -13,18 +16,11 @@
                                 <span class="header-toolbar-toggle__button-label">Menu</span></button>
                         </div>
                         <div class="header-toolbar">
-                            <div class="header-toolbar__item header-languages"><span class="screen-reader-text">Choose language:</span>
+                            <div class="header-toolbar__item header-languages"><span class="screen-reader-text">Visit the portal:</span>
                                 <ul class="header-languages__list">
-                                    <li class="header-languages__item header-languages__item--active"><a href="#en"
-                                                                                                         class="header-languages__item-link">EN</a>
+                                    <li class="header-languages__item header-languages__item--active">
+                                        <a href="http://mbe.dl.gov.ng/Account/Login" class="header-languages__item-link" title="Visit the portal"><i class="fas fa-key"></i></a>
                                     </li>
-                                    <li class="header-languages__item"><a href="#de"
-                                                                          class="header-languages__item-link">DE</a>
-                                    </li>
-                                    <li class="header-languages__item"><a href="#fr"
-                                                                          class="header-languages__item-link">FR</a>
-                                    </li>
-                                </ul>
                             </div>
                             <nav class="header-mobile-menu">
                                 <ul id="menu-main-menu" class="header-mobile-menu__list">
@@ -104,15 +100,14 @@
                                 </ul>
                             </nav>
                             <div class="header-search header-toolbar__item">
-                                <form class="c-search-form" action="https://preview.lsvr.sk/townpress/" method="get"
+                                <form class="c-search-form" action="#" method="get"
                                       role="search">
                                     <div class="c-search-form__inner">
-                                        <div class="c-search-form__input-holder"><input class="c-search-form__input"
-                                                                                        type="text" name="s"
+                                        <div class="c-search-form__input-holder"><input class="c-search-form__input" type="text" name="s"
                                                                                         placeholder="Search this site..."
                                                                                         value="">
                                             <button class="c-search-form__button" type="submit" title="Search"><i
-                                                    class="c-search-form__button-ico icon-magnifier"></i></button>
+                                                    class="fas fa-search fa-w-16 fa-fw"></i></button>
                                         </div>
                                     </div>
                                 </form>
