@@ -1,6 +1,13 @@
 <?php include_once('template/head.php'); ?>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/owl.theme.default.min.css">
+<style type="text/css">
+/*@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) { {
+  .head-logo {
+    position: relative; float: left;padding: 10px 0; margin: 50px 0 -70px 100px; width: 150%; -webkit-transition: margin 300ms ease-in-out; -moz-transition: margin 300ms ease-in-out;-ms-transition: margin 300ms ease-in-out; -o-transition: margin 300ms ease-in-out;transition: margin 300ms ease-in-out;  background: rgba(255, 255, 255, 0.0);  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.0);
+  }
+}*/
 </style>
 </head>
 <body
@@ -8,9 +15,16 @@
 <div id="wrapper">
 
     <?php include_once('template/header.php'); ?>
-    <div class="header-background header-background--single" data-slideshow-speed="10">
+    <!-- <div class="header-background header-background--single" data-slideshow-speed="10">
         <div class="header-background__image header-background__image--default"
-             style="background-image: url('images/match-kickoff.jpg'); "></div>
+             style="background-image: url('images/match-kickoff.jpg'); ">        
+        </div>
+    </div> -->
+    
+    <div class="header-background">
+        <div class="">
+            <div class="item"><img src="images/match-kickoff.jpg"></div>
+        </div>
     </div>
     <div id="core">
         <div class="core__inner" style="margin-top: 65px;">
@@ -477,8 +491,15 @@
 <script type="text/javascript" src="js/3/d9a09.js"></script>
 <script type="text/javascript" src="js/3/a8cb8.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
 <script>
-    new WOW().init();
+    $('.owl-carousel').owlCarousel({
+        navigation : true, // Show next and prev buttons
+        slideSpeed : 300,
+        paginationSpeed : 400,
+        // singleItem:true
+    })
 </script>
 </body>
 </html>
