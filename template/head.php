@@ -54,13 +54,13 @@
                 left: 13px;
             }
         }
-
-        /*]]>*/</style>
-    .core__inner{
+        .core__inner{
         margin-top: 65px;
     }
 
-    /*]]>*/</style>
+</style>
+    
+
     <link rel='stylesheet' id='lsvr-townpress-demo-style-css'
           href='css/style001e.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='lsvr-townpress-google-fonts-css'
