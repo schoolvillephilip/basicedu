@@ -22,7 +22,7 @@
                             <div class="header-toolbar__item header-languages"><span class="screen-reader-text">Visit the portal:</span>
                                 <ul class="header-languages__list">
                                     <li class="header-languages__item header-languages__item--active" style="margin-top: 30px;">
-                                        <a href="http://mbe.dl.gov.ng/Account/Login" class="header-languages__item-link" title="Visit the portal"><i class="fas fa-key"></i></a>
+                                        <a href="http://mbe.dl.gov.ng/Account/Login" target="_blank" class="header-languages__item-link" title="Visit the portal"><i class="fas fa-key"></i></a>
                                     </li>
                             </div>
                             <nav class="header-mobile-menu">
