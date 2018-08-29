@@ -87,7 +87,7 @@
                                 class="widget__title-icon icon-image"></i>Featured Gallery</h3>
                     <div class="widget__content lsvr_gallery-featured-widget__content"><p
                                 class="lsvr_gallery-featured-widget__thumb"><a
-                                    href="index"
+                                    href="achievements"
                                     class="lsvr_gallery-featured-widget__thumb-link"> <img
                                         width="600" height="360"
                                         src="images/match-kickoff.jpg"
@@ -95,7 +95,7 @@
                                         srcset="images/match-kickoff.jpg"
                                         sizes="(max-width: 600px) 100vw, 600px"/> </a></p>
                         <div class="lsvr_gallery-featured-widget__content-inner">                            
-                            <p class="widget__more"><a href="galleries" class="widget__more-link">More
+                            <p class="widget__more"><a href="achievements" class="widget__more-link">More
                                     Galleries</a></p></div>
                     </div>
                 </div>
