@@ -17,29 +17,20 @@
                                 <main id="main">
                                     <div class="main__inner">
                                         <div class="post-216 page type-page status-publish hentry">
-                                            <header class="main__header"><h1 class="main__title">Achievements</h1>
+                                            <header class="main__header"><h1 class="main__title">Delta South
+                                                    Projects</h1>
                                             </header>
                                             <div class="page__content">
                                                 <div class="c-content-box">
-                                                    <h2>
-                                                        Photo Speaks
-                                                    </h2>
-                                                    <a data-fancybox="gallery" href="images/pic.jpg"><img
-                                                                src="images/pic.jpg"></a>
-                                                    <a data-fancybox="gallery" href="images/pic1.jpg"><img
-                                                                src="images/pic1.jpg"></a>
-                                                    <a data-fancybox="gallery" href="images/pic2.jpg"><img
-                                                                src="images/pic2.jpg"></a>
-                                                    <a data-fancybox="gallery" href="images/pic3.jpg"><img
-                                                                src="images/pic3.jpg"></a>
-                                                    <a data-fancybox="gallery" href="images/pic4.jpg"><img
-                                                                src="images/pic4.jpg"></a>
-                                                    <a data-fancybox="gallery" href="images/pic5.jpg"><img
-                                                                src="images/pic5.jpg"></a>
-                                                    <a data-fancybox="gallery" href="images/pic6.jpg"><img
-                                                                src="images/pic6.jpg"></a>
-
-
+                                                    <h3>Projects</h3>
+                                                    <a data-fancybox="gallery" href="images/sch.jpg"><img
+                                                            src="images/sch.jpg"></a>
+                                                    <a data-fancybox="gallery" href="images/sch1.jpg"><img
+                                                            src="images/sch1.jpg"></a>
+                                                    <a  data-fancybox="gallery" href="images/sch2.jpg"><img style="width: 40%"
+                                                            src="images/sch2.jpg"></a>
+                                                    <a data-fancybox="gallery" href="images/sch3.jpg"><img
+                                                            src="images/sch3.jpg"></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,6 +51,8 @@
 <script type="text/javascript" src="js/3/b8041.js"></script>
 <script type="text/javascript" src="js/3/d9a09.js"></script>
 <script type="text/javascript" src="js/3/a8cb8.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+
 </body>
 </html>

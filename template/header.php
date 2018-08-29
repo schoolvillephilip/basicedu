@@ -6,8 +6,8 @@
                     <div class="header__content-inner">
                         <div class="header-logo" style="">
                             <div class="head-logo">
-                                <a href="index" class="header-logo__link" style="">
-                                    <img src="images/logo.png" class="header-logo__image" width="70%" alt="Govenment of Delta State">
+                                <a href="index" class="header-logo__link basic-move">
+                                    <img src="images/logo.png" width="90%"  alt="Govenment of Delta State">
                                 </a>
                                 
                             </div>

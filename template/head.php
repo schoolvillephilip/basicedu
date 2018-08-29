@@ -10,44 +10,51 @@
           href='css/bbpress01c4.css' type='text/css'
           media='screen'/>
     <link rel='stylesheet' id='lsvr-townpress-main-style-css' href='css/style3c94.css' type='text/css' media='all'/>
-    <link rel="stylesheet" href="css/owl.carousel.min.css" type='text/css' media='all' />
-    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" media="all" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type='text/css' media='all'/>
+    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" media="all"/>
     <style id='lsvr-townpress-main-style-inline-css' type='text/css'>
-    body, input, textarea, select, button, #cancel-comment-reply-link, .lsvr_listing-map__infobox {
-        font-family: 'Source Sans Pro', Arial, sans-serif
-    }
+        body, input, textarea, select, button, #cancel-comment-reply-link, .lsvr_listing-map__infobox {
+            font-family: 'Source Sans Pro', Arial, sans-serif
+        }
 
-    html, body {
-        font-size: 16px
-    }
+        html, body {
+            font-size: 16px
+        }
 
-    .header-logo {
-        max-width: 140px
-    }
-
-    .header-logo--front {
-        max-width: 200px
-    }
-
-    .edu-btn{
-        color: #fff;
-        padding: 10px;
-        border-radius: 4px;
-        border: 1px solid #0072b1;
-        color: #303030;
-    }
-
-    a{
-        text-decoration: none !important;
-    }
-
-    @media ( max-width: 991px ) {
         .header-logo {
             max-width: 140px
         }
-    }
 
-    /*]]>*/</style>
+        .header-logo--front {
+            max-width: 200px
+        }
+
+        .edu-btn {
+            color: #fff;
+            padding: 10px;
+            border-radius: 4px;
+            border: 1px solid #0072b1;
+            color: #303030;
+        }
+
+        a {
+            text-decoration: none !important;
+        }
+
+        .basic-move {
+            position: relative;
+            left: 80px;
+
+        }
+
+        @media only screen and (max-width: 768px) {
+            /* For mobile phones: */
+            .basic-move {
+                left: 13px;
+            }
+        }
+
+        /*]]>*/</style>
     <link rel='stylesheet' id='lsvr-townpress-demo-style-css'
           href='css/style001e.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='lsvr-townpress-google-fonts-css'
@@ -58,3 +65,4 @@
     <link rel='stylesheet' id='js_composer_front-css'
           href='css/js_composer.min5243.css' type='text/css'
           media='all'/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css"/>
