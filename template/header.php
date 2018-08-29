@@ -5,9 +5,12 @@
                 <div class="lsvr-container">
                     <div class="header__content-inner">
                         <div class="header-logo" style="">
-                            <a href="index" class="header-logo__link" style="">
-                                <img src="images/logo.png" class="header-logo__image" width="70%" alt="Govenment of Delta State">
-                            </a>
+                            <div class="head-logo">
+                                <a href="index" class="header-logo__link" style="">
+                                    <img src="images/logo.png" class="header-logo__image" width="70%" alt="Govenment of Delta State">
+                                </a>
+                                
+                            </div>
                         </div>
                         <div class="header-toolbar-toggle">
                             <button class="header-toolbar-toggle__menu-button" type="button"><i
