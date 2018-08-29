@@ -11,7 +11,7 @@
           media='screen'/>
     <link rel='stylesheet' id='lsvr-townpress-main-style-css' href='css/style3c94.css'
           type='text/css' media='all'/>
-    <style id='lsvr-townpress-main-style-inline-css' type='text/css'>/*<![CDATA[*/
+    <style id='lsvr-townpress-main-style-inline-css' type='text/css'>
     body, input, textarea, select, button, #cancel-comment-reply-link, .lsvr_listing-map__infobox {
         font-family: 'Source Sans Pro', Arial, sans-serif
     }
