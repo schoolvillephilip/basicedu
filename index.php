@@ -21,7 +21,7 @@
     </div> -->
     
     <div class="header-background">
-        <div class="owl-carousel">
+        <div class="">
             <div class="item"><img src="images/match-kickoff.jpg"></div>
         </div>
     </div>
