@@ -67,10 +67,10 @@
             <div id="lsvr_townpress_weather-2"
                  class="widget lsvr-townpress-weather-widget lsvr-townpress-weather-widget--has-background">
                 <div class="widget__inner"
-                     style="background-image: url(../wp-content/uploads/sites/3/2017/12/locale-widget-bg.jpg);">
+                     style="">
                     <h3 class="widget__title widget__title--has-icon"><i class="fas fa-globe"></i>&nbsp;About This Website</h3>
                     <div class="widget__content">
-                        <div class="textwidget"><p style="text-align: justify;">The website is designed to help you find what you need about education in Zimbabwe. </p></div>
+                        <div class="textwidget"><p style="text-align: justify;">The website is designed to help you find what you need about basic education in Delta State, Nigeria. </p></div>
                     </div>
                 </div>
             </div>
