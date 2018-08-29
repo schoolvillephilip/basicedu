@@ -10,8 +10,9 @@
           href='css/bbpress01c4.css' type='text/css'
           media='screen'/>
     <link rel='stylesheet' id='lsvr-townpress-main-style-css' href='css/style3c94.css' type='text/css' media='all'/>
-    <link rel="stylesheet" href="css/owl.carousel.min.css" type='text/css' media='all'/>
-    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" media="all"/>
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" media="all" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     <style id='lsvr-townpress-main-style-inline-css' type='text/css'>
         body, input, textarea, select, button, #cancel-comment-reply-link, .lsvr_listing-map__infobox {
             font-family: 'Source Sans Pro', Arial, sans-serif
@@ -55,6 +56,11 @@
         }
 
         /*]]>*/</style>
+    .core__inner{
+        margin-top: 65px;
+    }
+
+    /*]]>*/</style>
     <link rel='stylesheet' id='lsvr-townpress-demo-style-css'
           href='css/style001e.css' type='text/css' media='all'/>
     <link rel='stylesheet' id='lsvr-townpress-google-fonts-css'

@@ -13,6 +13,11 @@
                                         Home</a>
                                 </li>
                                 <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
+                                    <a href="http://deltastate.gov.ng/"
+                                       class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
+                                        Government</a>
+                                </li>
+                                <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
                                     <a href="about" class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
                                         About Us <span style="float: right;"><i class="fas fa-chevron-right" ></i></span>
                                     </a>
@@ -55,10 +60,10 @@
 
                                     </ul>
                                 </li>
-                                <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-custom menu-item-object-custom">
+                                <!-- <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-custom menu-item-object-custom">
                                     <a href="contact-us"
                                        class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
-                                        Contact Us</a></li>
+                                        Contact Us</a></li> -->
                             </ul>
                         </nav>
                     </div>

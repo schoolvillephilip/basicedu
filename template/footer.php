@@ -45,6 +45,7 @@
                                             <p>For Issues and suggestions:</p>
                                             <p>Email: <a href=mailto:basicedu@deltastate.gov.ng">basicedu@deltastate.gov.ng</a>
                                             </p>
+                                            <p><i class="fas fa-phone">&nbsp;</i>  Call Us : Office Opens Monday to Friday, 08:00am – 4:00pm || Sat & Sun (Closed)</p>
                                         </div>
                                     </div>
                                 </div>
@@ -54,7 +55,7 @@
                 </div>
             </div>
         </div>
-        <div class="footer-bottom">
+        <!-- <div class="footer-bottom">
             <div class="lsvr-container">
                 <div class="footer-bottom__inner">
                     <div class="footer-social">
@@ -72,6 +73,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </footer>
