@@ -1,5 +1,4 @@
 <?php include_once('template/head.php'); ?>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 <link rel="stylesheet" href="css/owl.carousel.min.css">
 <link rel="stylesheet" href="css/owl.theme.default.min.css">
 <style type="text/css">
@@ -22,12 +21,12 @@
     </div> -->
     
     <div class="header-background">
-        <div class="">
+        <div class="owl-carousel">
             <div class="item"><img src="images/match-kickoff.jpg"></div>
         </div>
     </div>
     <div id="core">
-        <div class="core__inner" style="margin-top: 65px;">
+        <div class="core__inner">
             <div id="columns">
                 <div class="columns__inner">
                     <div class="lsvr-container">
