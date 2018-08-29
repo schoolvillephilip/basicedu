@@ -5,7 +5,7 @@
     <?php include_once('template/header.php'); ?>
     <div class="header-background header-background--single" data-slideshow-speed="10">
         <div class="header-background__image header-background__image--default"
-             style="background-image: url('images/header-01.2.jpg'); "></div>
+             style="background-image: url('images/function.jpg'); "></div>
     </div>
     <div id="core">
         <div class="core__inner">
@@ -17,61 +17,41 @@
                                 <main id="main">
                                     <div class="main__inner">
                                         <div class="post-216 page type-page status-publish hentry">
-                                            <header class="main__header"><h1 class="main__title">Typography</h1>
+                                            <header class="main__header"><h1 class="main__title">Our Functions</h1>
                                             </header>
                                             <div class="page__content">
-                                                <div class="c-content-box"><p>Lorem ipsum dolor sit amet, consectetuer
-                                                        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-                                                        sociis natoque penatibus et magnis dis parturient montes, <a
-                                                            href="#lorem">nascetur ridiculus mus</a>.</p>
-                                                    <h2>Heading 2</h2>
-                                                    <p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis,
-                                                        sem. Nulla consequat massa quis enim. Donec pede justo,
-                                                        fringilla vel, aliquet nec, vulputate eget, arcu.</p>
-                                                    <h3>Heading 3</h3>
-                                                    <p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-                                                        Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
-                                                        Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate
-                                                        eleifend tellus.</p><h4>Heading 4</h4>
-                                                    <p>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
-                                                        enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
-                                                        tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque
-                                                        rutrum.</p><h5>Heading 5</h5>
-                                                    <p>Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur
-                                                        ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
-                                                        Maecenas tempus, tellus eget condimentum rhoncus, sem quam
-                                                        semper libero, sit amet adipiscing sem neque sed ipsum.</p><h6>
-                                                        Heading 6</h6>
-                                                    <p>Sed consequat, leo eget bibendum sodales, augue velit cursus
-                                                        nunc, quis gravida magna mi a libero. Fusce vulputate eleifend
-                                                        sapien. Vestibulum purus quam, scelerisque ut, mollis sed,
-                                                        nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies
-                                                        mi eu turpis hendrerit fringilla.</p>
+                                                <div class="c-content-box">
+                                                    <h2>Functions of the Ministry</h2>
                                                     <ul>
-                                                        <li>Vestibulum ante ipsum primis in faucibus</li>
-                                                        <li>Orci luctus et ultrices posuere cubilia Curae</li>
-                                                        <li>In ac dui quis mi consectetuer lacinia</li>
-                                                        <li>Nam pretium turpis et arcu</li>
+                                                        <li>Formulation and Implementation of education policies in the
+                                                            State
+                                                        </li>
+                                                        <li>Management and supervision of Pre-primary, Primary and
+                                                            Secondary and Skill Based Education
+                                                        </li>
+                                                        <li>Implementation of school curricula and development of
+                                                            uniform schemes of work from the approved curricula
+                                                        </li>
+                                                        <li>Examinations and Standards</li>
+                                                        <li>Educational Planning, Research and Statistics as well as
+                                                            project management
+                                                        </li>
+                                                        <li>Schools Sports and Development</li>
+                                                        <li>Guidance and Counselling Services</li>
+                                                        <li>Special Education</li>
+                                                        <li>Science, Vocational and Technical Education</li>
+                                                        <li>Adult Literacy</li>
+                                                        <li>Promotion of Arts and Culture in Schools</li>
+                                                        <li>Development and promotion of Foreign Language such as French
+                                                            in Schools
+                                                        </li>
+                                                        <li>Public Private Partnership in the development of
+                                                            infrastructure, provision of science equipment, Textbooks,
+                                                            ICT, furniture etc in Public Schools
+                                                        </li>
+                                                        <li>Education Resourcing & Development</li>
                                                     </ul>
-                                                    <p>Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet
-                                                        iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu,
-                                                        accumsan a, consectetuer eget, posuere ut, mauris. Praesent
-                                                        adipiscing.</p>
-                                                    <ol>
-                                                        <li>Phasellus ullamcorper ipsum rutrum nunc</li>
-                                                        <li>Nunc nonummy metus</li>
-                                                        <li>Vestibulum volutpat pretium libero</li>
-                                                        <li>Aenean ut eros et nisl sagittis vestibulum</li>
-                                                    </ol>
-                                                    <p>Nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis
-                                                        hendrerit risus. Phasellus nec sem in justo pellentesque
-                                                        facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque.</p>
-                                                    <blockquote><p>Phasellus leo dolor, tempus non, auctor et, hendrerit
-                                                            quis, nisi. Curabitur ligula sapien, tincidunt non, euismod
-                                                            vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent
-                                                            congue erat at massa.</p></blockquote>
-                                                    <p>Sed cursus turpis vitae tortor. Donec posuere vulputate arcu.
-                                                        Phasellus accumsan cursus velit.</p></div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

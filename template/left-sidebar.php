@@ -82,12 +82,12 @@
                                 class="widget__title-icon icon-image"></i>Featured Gallery</h3>
                     <div class="widget__content lsvr_gallery-featured-widget__content"><p
                                 class="lsvr_gallery-featured-widget__thumb"><a
-                                    href="../galleries/streets-of-townpress/index.html"
+                                    href="index"
                                     class="lsvr_gallery-featured-widget__thumb-link"> <img
                                         width="600" height="360"
-                                        src="../wp-content/uploads/sites/3/2017/12/town-02-large-600x360.jpg"
+                                        src="images/match-kickoff.jpg"
                                         class="attachment-medium size-medium wp-post-image" alt=""
-                                        srcset="https://preview.lsvr.sk/townpress/wp-content/uploads/sites/3/2017/12/town-02-large-600x360.jpg 600w, https://preview.lsvr.sk/townpress/wp-content/uploads/sites/3/2017/12/town-02-large-768x461.jpg 768w, https://preview.lsvr.sk/townpress/wp-content/uploads/sites/3/2017/12/town-02-large-1024x614.jpg 1024w"
+                                        srcset="images/match-kickoff.jpg"
                                         sizes="(max-width: 600px) 100vw, 600px"/> </a></p>
                         <div class="lsvr_gallery-featured-widget__content-inner">                            
                             <p class="widget__more"><a href="galleries" class="widget__more-link">More
