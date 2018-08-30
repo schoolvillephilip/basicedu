@@ -2,11 +2,11 @@
 <link rel="stylesheet" href="css/owl.carousel.min.css">
 <link rel="stylesheet" href="css/owl.theme.default.min.css">
 <style type="text/css">
-/*@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) { {
-  .head-logo {
-    position: relative; float: left;padding: 10px 0; margin: 50px 0 -70px 100px; width: 150%; -webkit-transition: margin 300ms ease-in-out; -moz-transition: margin 300ms ease-in-out;-ms-transition: margin 300ms ease-in-out; -o-transition: margin 300ms ease-in-out;transition: margin 300ms ease-in-out;  background: rgba(255, 255, 255, 0.0);  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.0);
-  }
-}*/
+    /*@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) { {
+      .head-logo {
+        position: relative; float: left;padding: 10px 0; margin: 50px 0 -70px 100px; width: 150%; -webkit-transition: margin 300ms ease-in-out; -moz-transition: margin 300ms ease-in-out;-ms-transition: margin 300ms ease-in-out; -o-transition: margin 300ms ease-in-out;transition: margin 300ms ease-in-out;  background: rgba(255, 255, 255, 0.0);  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.0);
+      }
+    }*/
 </style>
 </head>
 <body
@@ -19,10 +19,13 @@
              style="background-image: url('images/match-kickoff.jpg'); ">        
         </div>
     </div> -->
-    
+
     <div class="header-background">
-        <div class="">
+        <div class="edu-carousel basic-slide">
             <div class="item"><img src="images/match-kickoff.jpg"></div>
+        </div>
+        <div class="edu-carousel basic-slide">
+            <div class="item"><img src="images/header-01.2.jpg"></div>
         </div>
     </div>
     <div id="core">
@@ -49,7 +52,8 @@
                                                                         <i class="lsvr-townpress-sitemap__icon icon-road-sign"></i>
                                                                         <header class="lsvr-townpress-sitemap__header">
                                                                             <h2 class="lsvr-townpress-sitemap__title lsvr-townpress-sitemap__title--has-icon">
-                                                                                <i class="fas fa-bullseye"></i> Our <strong>Vision</strong>
+                                                                                <i class="fas fa-bullseye"></i> Our
+                                                                                <strong>Vision</strong>
                                                                             </h2></header>
                                                                         <div>
                                                                             <p>The Delta State vision on
@@ -70,7 +74,7 @@
                                                                         <header class="lsvr-townpress-posts__header"><h2
                                                                                     class="lsvr-townpress-posts__title lsvr-townpress-posts__title--has-icon">
                                                                                 <i class="fas fa-book-reader"></i>
-                                                                                    Basic <strong>Education Portal </strong>
+                                                                                Basic <strong>Education Portal </strong>
                                                                             </h2></header>
                                                                         <div class="lsvr-townpress-posts__content">
                                                                             <ul class="lsvr-townpress-posts__list">
@@ -80,12 +84,14 @@
                                                                                         <div class="lsvr-townpress-posts__post-inner">
                                                                                             <header class="lsvr-townpress-posts__post-header">
                                                                                                 <p class="lsvr-townpress-posts__post-thumbnail">
-                                                                                                    <a href="http://mbe.dl.gov.ng/Account/Login" target="_blank" 
+                                                                                                    <a href="http://mbe.dl.gov.ng/Account/Login"
+                                                                                                       target="_blank"
                                                                                                        class="lsvr-townpress-posts__post-thumbnail-link"
                                                                                                        style="background-image: url( 'images/zenith-cup.jpg' ); object-fit: cover"></a>
                                                                                                 </p>
                                                                                                 <h3 class="lsvr-townpress-posts__post-title">
-                                                                                                    <a href="http://mbe.dl.gov.ng/Account/Login" target="_blank"
+                                                                                                    <a href="http://mbe.dl.gov.ng/Account/Login"
+                                                                                                       target="_blank"
                                                                                                        class="lsvr-townpress-posts__post-title-link"
                                                                                                        rel="bookmark">
                                                                                                         Delta State
@@ -156,7 +162,7 @@
                                                                                 </li>
                                                                             </ul>
                                                                         </div>
-                                                                       
+
                                                                     </div>
                                                                 </section>
                                                             </div>
@@ -186,10 +192,29 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script>
+    let slideIndex = 0;
+
+    startCarousel();
+
+    function startCarousel() {
+        let i;
+        let eduslider = document.getElementsByClassName("edu-carousel");
+        for (i = 0; i < eduslider.length; i++) {
+            eduslider[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > eduslider.length) {
+            slideIndex = 1
+        }
+        eduslider[slideIndex - 1].style.display = "block";
+        setTimeout(startCarousel, 4000);
+    }
+
+
     $('.owl-carousel').owlCarousel({
-        navigation : true, // Show next and prev buttons
-        slideSpeed : 300,
-        paginationSpeed : 400,
+        navigation: true, // Show next and prev buttons
+        slideSpeed: 300,
+        paginationSpeed: 400,
         // singleItem:true
     })
 </script>

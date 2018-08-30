@@ -58,6 +58,24 @@
         margin-top: 65px;
     }
 
+        /* Fading animation */
+        .basic-slide {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes basic-slide {
+            from {opacity: .4}
+            to {opacity: 1}
+        }
+
+        @keyframes basic-slide {
+            from {opacity: .4}
+            to {opacity: 1}
+        }
+
 </style>
     
 
