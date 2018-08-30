@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
 <head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DELTA STATE MINISTY OF EDUCATION (BASIC & SECONDARY)</title>
