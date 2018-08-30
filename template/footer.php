@@ -43,7 +43,7 @@
                                             class="widget__title-icon fas fa-envelope"></i>Quick Contact</h3>
                                         <div class="textwidget"><p>Olorogun Felix Ibru Secretariate, Mariam Babangida Way,<br/> Off Okpanam Road, Asaba</p>
                                             <p>For Issues and suggestions:</p>
-                                            <p>Email: <a href=mailto:basicedu@deltastate.gov.ng">basicedu@deltastate.gov.ng</a>
+                                            <p>Email: <a href="mailto:basicedu@deltastate.gov.ng">basicedu@deltastate.gov.ng</a>
                                             </p>
                                             <p><i class="fas fa-phone">&nbsp;</i>  Call Us : Office Opens Monday to Friday, 08:00am – 4:00pm || Sat & Sun (Closed)</p>
                                         </div>
@@ -55,24 +55,5 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="footer-bottom">
-            <div class="lsvr-container">
-                <div class="footer-bottom__inner">
-                    <div class="footer-social">
-                        <ul class="footer-social__list">
-                            <li class="footer-social__item footer-social__item--facebook"><a
-                                    class="footer-social__link footer-social__link--facebook" href="#facebook"
-                                    title="Facebook"> <i class="footer-social__icon icon-facebook"></i> </a></li>
-                            <li class="footer-social__item footer-social__item--twitter"><a
-                                    class="footer-social__link footer-social__link--twitter" href="#twitter"
-                                    title="Twitter"> <i class="footer-social__icon icon-twitter"></i> </a></li>
-                            <li class="footer-social__item footer-social__item--youtube"><a
-                                    class="footer-social__link footer-social__link--youtube" href="#youtube"
-                                    title="YouTube"> <i class="footer-social__icon icon-youtube"></i> </a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </footer>
