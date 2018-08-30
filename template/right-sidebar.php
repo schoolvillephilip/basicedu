@@ -2,83 +2,61 @@
     <aside id="sidebar-right">
         <div class="sidebar-right__inner">
             <div id="lsvr_notices_notice_list-2" class="widget lsvr_notice-list-widget">
-                <div class="widget__inner"><h3
-                        class="widget__title widget__title--has-icon"><i
-                        class="widget__title-icon icon-bullhorn"></i>Notices</h3>
+                <div class="widget__inner"><h3 class="widget__title widget__title--has-icon"> OUR FUNCTIONS</h3>
+                    <hr />
                     <div class="widget__content">
                         <ul class="lsvr_notice-list-widget__list">
-                            <li class="lsvr_notice-list-widget__item"><h4
-                                    class="lsvr_notice-list-widget__item-title"><a
-                                    href="../notices/soccer-tournament-timetable/index.html"
-                                    class="lsvr_notice-list-widget__item-title-link"> Soccer
-                                Tournament Timetable </a></h4>
-                                <ul class="lsvr_notice-list-widget__item-meta">
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--date">
-                                        <time datetime="2017-12-01T12:23:47+00:00"> December
-                                            1, 2017
-                                        </time>
-                                    </li>
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--category">
-                                        in <a href="../notice-category/sport/index.html"
-                                              class="lsvr_notice-list-widget__item-category-link">Sport</a>
-                                    </li>
-                                </ul>
+                            <li class="lsvr_notice-list-widget__item">
+                                <h4 class="lsvr_notice-list-widget__item-title">
+                                    Formulation and Implementation of education policies in the State
+                                </h4>
                             </li>
-                            <li class="lsvr_notice-list-widget__item"><h4
-                                    class="lsvr_notice-list-widget__item-title"><a
-                                    href="../notices/annual-marathon-registration/index.html"
-                                    class="lsvr_notice-list-widget__item-title-link"> Annual
-                                Marathon Registration </a></h4>
-                                <ul class="lsvr_notice-list-widget__item-meta">
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--date">
-                                        <time datetime="2017-11-28T12:21:49+00:00"> November
-                                            28, 2017
-                                        </time>
-                                    </li>
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--category">
-                                        in <a href="../notice-category/sport/index.html"
-                                              class="lsvr_notice-list-widget__item-category-link">Sport</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="lsvr_notice-list-widget__item"><h4
-                                    class="lsvr_notice-list-widget__item-title"><a
-                                    href="../notices/traffic-safety-notice/index.html"
-                                    class="lsvr_notice-list-widget__item-title-link">
-                                Traffic Safety Notice </a></h4>
-                                <ul class="lsvr_notice-list-widget__item-meta">
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--date">
-                                        <time datetime="2017-11-23T12:20:44+00:00"> November
-                                            23, 2017
-                                        </time>
-                                    </li>
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--category">
-                                        in <a href="../notice-category/comunity/index.html"
-                                              class="lsvr_notice-list-widget__item-category-link">Comunity</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="lsvr_notice-list-widget__item"><h4
-                                    class="lsvr_notice-list-widget__item-title"><a
-                                    href="../notices/upcoming-public-meetings/index.html"
-                                    class="lsvr_notice-list-widget__item-title-link">
-                                Upcoming Public Meetings </a></h4>
-                                <ul class="lsvr_notice-list-widget__item-meta">
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--date">
-                                        <time datetime="2017-11-15T12:19:52+00:00"> November
-                                            15, 2017
-                                        </time>
-                                    </li>
-                                    <li class="lsvr_notice-list-widget__item-meta-item lsvr_notice-list-widget__item-meta-item--category">
-                                        in <a href="../notice-category/comunity/index.html"
-                                              class="lsvr_notice-list-widget__item-category-link">Comunity</a>
-                                    </li>
-                                </ul>
+                            <li class="lsvr_notice-list-widget__item">
+                                <h4 class="lsvr_notice-list-widget__item-title">
+                                    Management and supervision of Pre-primary, Primary and Secondary and Skill Based Education.
+                                </h4>
                             </li>
                         </ul>
-                        <p class="widget__more"><a href="../notices/index.html"
-                                                   class="widget__more-link">More
-                            Notices</a></p></div>
+                        <p class="widget__more">
+                            <a href="our-functions" class="widget__more-link">Read More</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="lsvr_notices_notice_list-2" class="widget lsvr_notice-list-widget">
+                <div class="widget__inner"><h3 class="widget__title widget__title--has-icon"> POLICY IMPLEMENTATION</h3>
+                    <hr />
+                    <div class="widget__content">
+                        <ul class="lsvr_notice-list-widget__list">
+                            <li class="lsvr_notice-list-widget__item">
+                                <h4 class="lsvr_notice-list-widget__item-title">
+                                    The Primary and Secondary education sub-sector is critical to the development of sound education in the State. It is the foundation on which subsequent educational blocks are laid.
+                                </h4>
+                            </li>
+                        </ul>
+                        <p class="widget__more">
+                            <a href="policy-implementation" class="widget__more-link">Read More</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="lsvr_notices_notice_list-2" class="widget lsvr_notice-list-widget">
+                <div class="widget__inner"><h3 class="widget__title widget__title--has-icon">ACHIEVEMENTS</h3>
+                    <hr />
+                    <div class="widget__content">
+                        <ul class="lsvr_notice-list-widget__list">
+                            <li class="lsvr_notice-list-widget__item">
+                                <h4 class="lsvr_notice-list-widget__item-title">
+                                    The establishment of three (3) new public Primary Schools and eleven (11) new Public Secondary Schools across the three (3) Senatorial Districts as indicated in the table below…
+                                </h4>
+                            </li>
+                        </ul>
+                        <p class="widget__more">
+                            <a href="achievements" class="widget__more-link">See More</a>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>

@@ -38,9 +38,8 @@
                                 <main id="main">
                                     <div class="main__inner">
                                         <div class="post-207 page type-page status-publish hentry">
-                                            <header class="main__header"><h1 class="main__title">Welcome to Delta State
-                                                    Ministry of basic and secondary education,<br><em>Delta State In
-                                                        Safe Hands</em></h1>
+                                            <header class="main__header"><h1 class="main__title">Delta State
+                                                    Ministry of basic and secondary education<br><em>welcomes you!</em></h1>
                                             </header>
                                             <div class="page__content">
                                                 <div class="vc_row wpb_row vc_row-fluid">

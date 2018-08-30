@@ -1,4 +1,4 @@
-<footer id="footer" class="footer--has-background" style="background-image: url( 'images/footer-bg.jpg' );">
+<footer id="footer" class="footer--has-background" style="background-image: url( 'images/zenith-cup.jpg' );">
     <div class="footer__inner">
         <div class="footer-widgets">
             <div class="footer-widgets__inner">
