@@ -1,6 +1,4 @@
 <?php include_once('template/head.php'); ?>
-<link rel="stylesheet" href="css/owl.carousel.min.css">
-<link rel="stylesheet" href="css/owl.theme.default.min.css">
 <style type="text/css">
     /*@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) { {
       .head-logo {
@@ -14,12 +12,7 @@
 <div id="wrapper">
 
     <?php include_once('template/header.php'); ?>
-    <!-- <div class="header-background header-background--single" data-slideshow-speed="10">
-        <div class="header-background__image header-background__image--default"
-             style="background-image: url('images/match-kickoff.jpg'); ">        
-        </div>
-    </div> -->
-
+   
     <div class="header-background">
         <div class="edu-carousel basic-slide">
             <div class="item"><img src="images/match-kickoff.jpg"></div>
@@ -187,14 +180,9 @@
 <script type="text/javascript" src="js/3/b8041.js"></script>
 <script type="text/javascript" src="js/3/d9a09.js"></script>
 <script type="text/javascript" src="js/3/a8cb8.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-<script src="js/jquery.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
 <script>
     let slideIndex = 0;
-
     startCarousel();
-
     function startCarousel() {
         let i;
         let eduslider = document.getElementsByClassName("edu-carousel");
@@ -209,13 +197,6 @@
         setTimeout(startCarousel, 4000);
     }
 
-
-    $('.owl-carousel').owlCarousel({
-        navigation: true, // Show next and prev buttons
-        slideSpeed: 300,
-        paginationSpeed: 400,
-        // singleItem:true
-    })
 </script>
 </body>
 </html>
