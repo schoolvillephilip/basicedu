@@ -18,7 +18,7 @@
                                         Government</a>
                                 </li>
                                 <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-                                    <a href="about" class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
+                                    <a href="#" class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
                                         About Us <span style="float: right;"><i class="fas fa-chevron-right" ></i></span>
                                     </a>
                                     <ul class="lsvr-townpress-menu-widget__submenu lsvr-townpress-menu-widget__submenu--level-0">
@@ -41,7 +41,7 @@
                                        class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
                                         Boards</a></li>
                                 <li class="lsvr-townpress-menu-widget__item lsvr-townpress-menu-widget__item--level-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-                                    <a href="about" class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
+                                    <a href="#" class="lsvr-townpress-menu-widget__item-link lsvr-townpress-menu-widget__item-link--level-0">
                                         Projects <span style="float: right;"><i class="fas fa-chevron-right" ></i></span>
                                     </a>
                                     <ul class="lsvr-townpress-menu-widget__submenu lsvr-townpress-menu-widget__submenu--level-0">
