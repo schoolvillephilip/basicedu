@@ -5,7 +5,7 @@
     <?php include_once('template/header.php'); ?>
     <div class="header-background header-background--single" data-slideshow-speed="10">
         <div class="header-background__image header-background__image--default"
-             style="background-image: url('images/header-01.2.jpg'); "></div>
+             style="background-image: url('images/function.jpg'); "></div>
     </div>
     <div id="core">
         <div class="core__inner">

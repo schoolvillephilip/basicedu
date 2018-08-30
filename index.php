@@ -1,10 +1,5 @@
 <?php include_once('template/head.php'); ?>
 <style type="text/css">
-    /*@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) { {
-      .head-logo {
-        position: relative; float: left;padding: 10px 0; margin: 50px 0 -70px 100px; width: 150%; -webkit-transition: margin 300ms ease-in-out; -moz-transition: margin 300ms ease-in-out;-ms-transition: margin 300ms ease-in-out; -o-transition: margin 300ms ease-in-out;transition: margin 300ms ease-in-out;  background: rgba(255, 255, 255, 0.0);  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.0);
-      }
-    }*/
 </style>
 </head>
 <body
@@ -15,10 +10,13 @@
    
     <div class="header-background">
         <div class="edu-carousel basic-slide">
-            <div class="item"><img src="images/match-kickoff.jpg"></div>
+            <div class="item"><img src="images/slider/slider1.jpeg" style="width: 100%"></div>
         </div>
         <div class="edu-carousel basic-slide">
-            <div class="item"><img src="images/header-01.2.jpg"></div>
+            <div class="item"><img src="images/slider/slider2.jpeg" style="width: 100%"></div>
+        </div>
+        <div class="edu-carousel basic-slide">
+            <div class="item"><img src="images/slider/slider3.jpeg" style="width: 100%"></div>
         </div>
     </div>
     <div id="core">
